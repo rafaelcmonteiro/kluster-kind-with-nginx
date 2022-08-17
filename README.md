@@ -1,2 +1,5 @@
-# A mini tutorial on how to set up a basic kind cluster with NGINX.
+# How to implement nginx in a kind cluster, for the sake of study.
  
+The idea of this project is to study how nginx works in a kubernetes cluster.
+
+# 
